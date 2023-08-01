@@ -1,0 +1,9 @@
+# Ignore the data directory
+data/*
+!data/.gitkeep
+
+# Ignore the tmp directory
+tmp/*
+!tmp/.gitkeep
+
+__pycache__
