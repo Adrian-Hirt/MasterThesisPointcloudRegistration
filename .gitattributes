@@ -1,0 +1,2 @@
+testdata/home_cad.ply filter=lfs diff=lfs merge=lfs -text
+testdata/captured_1.ply filter=lfs diff=lfs merge=lfs -text
